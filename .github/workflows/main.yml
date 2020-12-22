@@ -41,7 +41,7 @@ jobs:
       uses: EndBug/add-and-commit@v4.4.0
       with:
         author_name: GitHub Action
-        author_email: noreply@github.com
+        author_email: cc78@vip.qq.com
         message: ${{ github.event.inputs.message }}
         add: "-A"
       env:
