@@ -52,7 +52,7 @@ jobs:
       uses: EndBug/add-and-commit@v4.4.0
       with:
         author_name: GitHub Action
-        author_email: noreply@github.com
+        author_email: cc78@vip.qq.com
         message: "Update sub-web from zhongfly/sub-web"
         add: "-A"
       env:
